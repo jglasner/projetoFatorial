@@ -1,5 +1,5 @@
 public class TesteFatorial{
-
+	//Cometario inserido em TesteFatorial
 	public static void main(String args[]){
 
 		Fatorial fat = new Fatorial();
